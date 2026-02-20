@@ -12,5 +12,5 @@ It allows users to add income and expenses and view their balance in real time.
 ## Tech Stack
 - React.js
 - JavaScript
-- CSS
+-  HTML5 & CSS3
 
